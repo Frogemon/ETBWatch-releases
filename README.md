@@ -6,6 +6,8 @@ for you.
 
 **[Download the latest version for Windows](https://github.com/Frogemon/ETBWatch-releases/releases/latest/download/ETBWatch.exe)**
 
+Website: https://etbwatch.onrender.com
+
 - Windows 10 or 11, 64-bit
 - Single file, nothing to install
 - Your tracked products and settings stay on your PC (`%APPDATA%\ETBWatch`)
